@@ -1,4 +1,4 @@
-baseurl = "https://ibeholder.github.io"
+baseurl = "/"
 disablePathToLower = false
 languageCode = "en-us"
 title = "PowerCLI"
